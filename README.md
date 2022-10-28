@@ -3,3 +3,5 @@
 - 😻 I’m interested in programming languages such as Javascripts,html/css,php,etc.
 - 🌱 And i’m currently learning Kotlin ╰(*°▽°*)╯
 
+![android](android.gif)
+
